@@ -27,8 +27,3 @@ Audio clips & Live explantion
 
 Stroop
 Text and Live explantion 
-
-Less is more
-Live explantion 
-
-
