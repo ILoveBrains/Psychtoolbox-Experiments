@@ -1,0 +1,11 @@
+IMGList
+appleapple.png
+applebanana.png
+appleorange.png
+bananabanana.png
+bananaapple.png
+bananaorange.png
+orangeorange.png
+orangebanana.png
+orangeapple.png
+

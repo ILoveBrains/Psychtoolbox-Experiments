@@ -1,0 +1,26 @@
+%% Rule Check
+
+%% After key is selected, check the card in the picked stack
+% be able to select only the value for the rule to compair between the picked card uptop and the curent card in the deck
+
+
+%Determine if it is an interger or string (DONT HAVE TO)
+
+%cardlist is the list of attributes for the current card (color,shape,number)
+
+%Number answer
+if 
+	
+end
+
+
+%String answer
+if strmatch() ==
+
+cardlist(DeckOrder(nCC))
+
+isequal(topcardpick(cRule),cardlist(deckOrder(nCC),cRule)
+cellfun
+isequal
+
+HAVE TO MAKE IT AFTER A PARTICULAR AMOUNT OF CORRECT ANSWERS THE RULES CHANGE
